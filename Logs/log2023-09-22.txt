@@ -1,0 +1,226 @@
+2023-09-22 10:13:13,230 - BasePage.py:[34] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul Arora
+2023-09-22 10:13:13,312 - BasePage.py:[34] - [INFO] - Typing in an element: phone_XPATH value entered as : 9711111558
+2023-09-22 10:13:13,382 - BasePage.py:[34] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2023-09-22 10:13:13,432 - BasePage.py:[48] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-09-22 10:13:13,485 - BasePage.py:[34] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2023-09-22 10:13:13,546 - BasePage.py:[34] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2023-09-22 10:13:13,595 - BasePage.py:[34] - [INFO] - Typing in an element: password_XPATH value entered as : asdfsdfdf
+2023-09-22 10:13:13,659 - BasePage.py:[24] - [INFO] - Clicking on an element: submit_XPATH
+2023-09-22 10:23:37,746 - BasePage.py:[34] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul Arora
+2023-09-22 10:23:37,833 - BasePage.py:[34] - [INFO] - Typing in an element: phone_XPATH value entered as : 9711111558
+2023-09-22 10:23:37,899 - BasePage.py:[34] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2023-09-22 10:23:37,947 - BasePage.py:[48] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-09-22 10:23:38,003 - BasePage.py:[34] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2023-09-22 10:23:38,056 - BasePage.py:[34] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2023-09-22 10:23:38,110 - BasePage.py:[34] - [INFO] - Typing in an element: password_XPATH value entered as : asdfsdfdf
+2023-09-22 10:23:38,168 - BasePage.py:[24] - [INFO] - Clicking on an element: submit_XPATH
+2023-09-22 10:29:04,208 - BasePage.py:[34] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul Arora
+2023-09-22 10:29:04,295 - BasePage.py:[34] - [INFO] - Typing in an element: phone_XPATH value entered as : 9711111558
+2023-09-22 10:29:04,373 - BasePage.py:[34] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2023-09-22 10:29:04,426 - BasePage.py:[48] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-09-22 10:29:04,492 - BasePage.py:[34] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2023-09-22 10:29:04,556 - BasePage.py:[34] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2023-09-22 10:29:04,606 - BasePage.py:[34] - [INFO] - Typing in an element: password_XPATH value entered as : asdfsdfdf
+2023-09-22 10:29:04,676 - BasePage.py:[24] - [INFO] - Clicking on an element: submit_XPATH
+2023-09-22 11:42:08,755 - BasePage.py:[34] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul Arora
+2023-09-22 11:42:08,825 - BasePage.py:[34] - [INFO] - Typing in an element: phone_XPATH value entered as : 9711111558
+2023-09-22 11:42:08,891 - BasePage.py:[34] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2023-09-22 11:42:08,932 - BasePage.py:[48] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-09-22 11:42:08,986 - BasePage.py:[34] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2023-09-22 11:42:09,065 - BasePage.py:[34] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2023-09-22 11:42:09,121 - BasePage.py:[34] - [INFO] - Typing in an element: password_XPATH value entered as : asdfsdfdf
+2023-09-22 11:42:09,180 - BasePage.py:[24] - [INFO] - Clicking on an element: submit_XPATH
+2023-09-22 12:50:56,886 - BasePage.py:[34] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul Arora
+2023-09-22 12:50:56,970 - BasePage.py:[34] - [INFO] - Typing in an element: phone_XPATH value entered as : 9711111558
+2023-09-22 12:50:57,038 - BasePage.py:[34] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2023-09-22 12:50:57,088 - BasePage.py:[48] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-09-22 12:50:57,144 - BasePage.py:[34] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2023-09-22 12:50:57,206 - BasePage.py:[34] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2023-09-22 12:50:57,261 - BasePage.py:[34] - [INFO] - Typing in an element: password_XPATH value entered as : asdfsdfdf
+2023-09-22 12:50:57,318 - BasePage.py:[24] - [INFO] - Clicking on an element: submit_XPATH
+2023-09-22 13:20:33,501 - BasePage.py:[34] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul Arora
+2023-09-22 13:20:33,597 - BasePage.py:[34] - [INFO] - Typing in an element: phone_XPATH value entered as : 9711111558
+2023-09-22 13:20:33,679 - BasePage.py:[34] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2023-09-22 13:20:33,727 - BasePage.py:[48] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-09-22 13:20:33,775 - BasePage.py:[34] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2023-09-22 13:20:33,831 - BasePage.py:[34] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2023-09-22 13:20:33,893 - BasePage.py:[34] - [INFO] - Typing in an element: password_XPATH value entered as : asdfsdfdf
+2023-09-22 13:20:33,960 - BasePage.py:[24] - [INFO] - Clicking on an element: submit_XPATH
+2023-09-22 13:41:15,770 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 13:41:15,831 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 13:42:11,283 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 13:42:11,364 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 13:42:27,797 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 13:42:27,851 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 13:42:45,469 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 13:42:45,522 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 13:43:21,663 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 13:43:21,718 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 13:44:09,307 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 13:44:09,359 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 13:44:14,017 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 13:47:32,949 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 13:47:33,000 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 13:47:33,048 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 13:47:58,336 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 13:47:58,396 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 13:47:58,445 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:04:56,033 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_XPATH
+2023-09-22 14:05:00,319 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:05:00,375 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:05:02,936 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:07:11,846 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_XPATH
+2023-09-22 14:07:11,947 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:07:12,020 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:07:12,067 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:09:03,481 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 14:09:03,590 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:09:03,662 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:09:03,712 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:26:56,873 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 14:26:56,974 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:26:57,048 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:26:57,101 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:30:27,239 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 14:30:27,354 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:30:27,420 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:30:27,468 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:31:19,199 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 14:31:19,300 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:31:19,374 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:31:19,430 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:32:01,180 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 14:32:01,271 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:32:01,346 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:32:01,406 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:32:35,727 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 14:32:35,830 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:32:35,914 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:32:35,960 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:34:02,939 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 14:34:03,036 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:34:03,101 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:34:03,148 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:35:22,574 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 14:35:22,669 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:35:22,750 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:35:22,804 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:35:45,307 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 14:35:45,408 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:35:45,485 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:35:45,535 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:36:40,610 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 14:36:40,733 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:36:40,831 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:36:40,880 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:42:05,102 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 14:42:05,199 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:42:05,273 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:42:05,320 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:42:17,234 - BasePage.py:[71] - [INFO] - Getting the value of the element: system_login_logged_ID
+2023-09-22 14:42:24,965 - BasePage.py:[71] - [INFO] - Getting the value of the element: system_login_logged_ID
+2023-09-22 14:42:43,518 - BasePage.py:[71] - [INFO] - Getting the value of the element: system_login_logged_ID
+2023-09-22 14:44:23,521 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 14:44:23,619 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:44:23,686 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:44:23,743 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:45:28,805 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 14:45:28,900 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:45:28,973 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:45:29,017 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:45:43,861 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 14:45:43,963 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:45:44,039 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:45:44,093 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:46:25,251 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 14:46:25,351 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:46:25,418 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:46:25,469 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:47:29,699 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 14:47:29,811 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:47:29,880 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:47:29,937 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:47:30,594 - BasePage.py:[72] - [INFO] - Getting the value of the element: system_login_logged_ID
+2023-09-22 14:47:54,714 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 14:47:54,821 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:47:54,902 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:47:54,951 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:47:54,951 - BasePage.py:[72] - [INFO] - Getting the value of the element: system_login_logged_ID
+2023-09-22 14:48:49,534 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 14:48:49,650 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:48:49,737 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:48:49,797 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:48:49,798 - BasePage.py:[65] - [INFO] - Getting the value of the element: system_login_logged_ID
+2023-09-22 14:53:37,246 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 14:53:37,344 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:53:37,413 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:53:37,460 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:53:37,461 - BasePage.py:[65] - [INFO] - Getting the value of the element: system_login_logged_ID
+2023-09-22 14:56:30,025 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 14:56:30,134 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 14:56:30,217 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 14:56:30,263 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 14:56:30,264 - BasePage.py:[65] - [INFO] - Getting the value of the element: system_login_logged_ID
+2023-09-22 14:56:44,644 - BasePage.py:[34] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul Arora
+2023-09-22 14:56:44,725 - BasePage.py:[34] - [INFO] - Typing in an element: phone_XPATH value entered as : 9711111558
+2023-09-22 14:56:44,791 - BasePage.py:[34] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2023-09-22 14:56:44,843 - BasePage.py:[48] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-09-22 14:56:44,902 - BasePage.py:[34] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2023-09-22 14:56:44,960 - BasePage.py:[34] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2023-09-22 14:56:45,008 - BasePage.py:[34] - [INFO] - Typing in an element: password_XPATH value entered as : asdfsdfdf
+2023-09-22 14:56:45,069 - BasePage.py:[24] - [INFO] - Clicking on an element: submit_XPATH
+2023-09-22 15:05:14,264 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 15:05:14,364 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 15:05:14,432 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 15:05:14,496 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 15:05:14,497 - BasePage.py:[65] - [INFO] - Getting the value of the element: system_login_logged_ID
+2023-09-22 15:06:56,355 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 15:06:56,467 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 15:06:56,543 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 15:06:56,594 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 15:06:56,594 - BasePage.py:[65] - [INFO] - Getting the value of the element: system_login_logged_ID
+2023-09-22 15:12:21,243 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 15:12:21,347 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 15:12:21,431 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 15:12:21,480 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 15:12:21,481 - BasePage.py:[65] - [INFO] - Getting the value of the element: system_login_logged_ID
+2023-09-22 15:14:16,559 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 15:14:16,663 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 15:14:32,524 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 15:14:32,623 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 15:15:23,789 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 15:15:23,890 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 15:16:01,550 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 15:16:01,652 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 15:16:59,905 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 15:17:05,165 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 15:17:28,472 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 15:17:36,654 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 15:17:54,891 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 15:19:09,855 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 15:19:12,435 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 15:20:37,231 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 15:20:39,695 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 15:21:08,661 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 15:21:16,939 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 15:21:28,786 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 15:22:40,908 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 15:22:41,018 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 15:22:41,103 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 15:22:41,149 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 15:22:41,150 - BasePage.py:[65] - [INFO] - Getting the value of the element: system_login_logged_ID
+2023-09-22 15:23:30,047 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 15:23:30,143 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 15:23:30,214 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 15:23:30,258 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 15:23:30,259 - BasePage.py:[65] - [INFO] - Getting the value of the element: system_login_logged_ID
+2023-09-22 15:24:15,855 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 15:24:15,956 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 15:24:16,034 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 15:24:16,085 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 15:24:16,086 - BasePage.py:[65] - [INFO] - Getting the value of the element: system_login_logged_ID
+2023-09-22 15:26:38,919 - BasePage.py:[24] - [INFO] - Clicking on an element: login_link_home_ID
+2023-09-22 15:26:39,027 - BasePage.py:[34] - [INFO] - Typing in an element: login_XPATH value entered as : joao.ger@maiffarm.com.br
+2023-09-22 15:26:39,107 - BasePage.py:[34] - [INFO] - Typing in an element: password_login_XPATH value entered as : 123
+2023-09-22 15:26:39,152 - BasePage.py:[24] - [INFO] - Clicking on an element: enter_XPATH
+2023-09-22 15:26:39,153 - BasePage.py:[65] - [INFO] - Getting the value of the element: system_login_logged_ID
