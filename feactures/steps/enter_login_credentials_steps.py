@@ -9,7 +9,7 @@ from feactures.pageobjects.LoginCredentialsPage import LoginCredentialsPage
 @given(u'I navigate to home page')
 def step_impl(context):
     context.reg = LoginCredentialsPage(context.driver)
-    context.reg.open(configReader.readConfig("basic info", "url_local_home"))
+    context.reg.open(configReader.readConfig("basic info", "url_system"))
     context.driver.implicitly_wait(5)
     # Maximize the Chrome window
     context.driver.maximize_window()
